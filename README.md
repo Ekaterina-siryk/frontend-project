@@ -3,7 +3,7 @@
 ![CI](https://github.com/Ekaterina-siryk/frontend-project/actions/workflows/deploy.yml/badge.svg)
 
 ## Ссылки 
-* **Демо-страница:** []()
+* **Демо-страница:** [https://ekaterina-siryk.github.io/frontend-project/](https://ekaterina-siryk.github.io/frontend-project/)
 * **Репозиторий:** [https://github.com/Ekaterina-siryk/frontend-project.git](https://github.com/Ekaterina-siryk/frontend-project.git)
   
 ### Инструкция по запуску проекта
