@@ -1,0 +1,17 @@
+{
+  "name": "frontend-project",
+  "version": "1.0.0",
+  "description": "Serverless backend for RxJS polling task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "vercel": "^61.0.0"
+  }
+}
